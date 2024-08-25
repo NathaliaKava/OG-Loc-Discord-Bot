@@ -1,0 +1,6 @@
+PyNaCl
+ffmpeg
+discord.py
+discord.py[voice]
+python-dotenv
+responses
