@@ -1,1 +1,0 @@
-# OG-Loc-Discord-Bot
